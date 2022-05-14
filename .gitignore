@@ -3,7 +3,7 @@
 *.cpp
 
 
-!important.py
+#!important.py
 
-[aeiou]*
+#[aeiou]*
 
